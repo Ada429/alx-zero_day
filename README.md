@@ -1,1 +1,1 @@
-i have
+Finally beginning to understand some stuff in coding.
